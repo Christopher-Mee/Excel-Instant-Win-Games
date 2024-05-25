@@ -30,5 +30,5 @@ An Excel sheet used to track and enter Instant Win Games (IWG).
   * Alternatively use 'shift' + 'end' to go to the end of all entries.
   * Then use 'shift' + 'home' to go to the top of all entries.
 * To sort the IWG list
-  * Custom sorting will help to properly organize your games based on any column you wish.
+  * Custom sorting will help to properly organize your games based on any column(s) you wish.
   * Use 'context menu key' + 'o' + 'u' to open the custom sorting window.
