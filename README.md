@@ -25,8 +25,8 @@ An Excel sheet used to track and enter Instant Win Games (IWG).
   * Use 'ctrl' + 'k'
   * If Excel freezes when adding a hyperlink, close you browser. (Bug with Google Chrome?)
 * When adding a date
- * Use slash notation (month/day/year)
- * You can omitt the year, if it is the same as the current year.
+  * Use slash notation. (month/day/year)
+  * You can omitt the year, if it is the same as the current year.
 * To sort the IWG list
   * Custom sorting will help to properly organize your games based on any column(s) you wish.
   * Use 'context menu key' + 'o' + 'u' to open the custom sorting window.
