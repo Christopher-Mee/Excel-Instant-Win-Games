@@ -10,7 +10,8 @@ An Excel sheet used to track and enter Instant Win Games (IWG).
     * The check mark is made using wingdings font type.
       * 'P' = check mark (success)
       * 'O' = x mark (error)
-    * To reset all check marks; Select the first check mark cell, then hold shift and select the last, and finally press delete.
+    * To reset all check marks
+      * Select the first check mark cell, then hold shift and select the last, and finally press delete.
 * Conditional Formatting
   * The cells for the start and end date are color coded to indicate if a contest is active.
     * If the cells are green, the contest has started.
